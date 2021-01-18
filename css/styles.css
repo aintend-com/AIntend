@@ -153,3 +153,10 @@ text-align: center;
 .meet{
   margin-bottom: 2%;
 }
+.phone{
+  color: black;
+}
+a:hover{
+  color: #8f8f8f;
+  text-decoration: none;
+}
